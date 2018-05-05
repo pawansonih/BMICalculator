@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="male">Male</string>
+    <string name="VSUnderWeight">&lt; 16</string>
+    <string name="obeses3">&gt; 40</string>
+    <string name="female">Female</string>
+</resources>
